@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  dashboard-app:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-05-30T10:14:50.302272245Z"
+    description: A Helm chart for Kubernetes
+    digest: e5d096d1bf8bdec139ef42aca410cc1b379c5a095ab14234472cae4078fa26d3
+    name: dashboard-app
+    type: application
+    urls:
+    - https://dmadunic.github.io/charts/dashboard-app-0.1.0.tgz
+    version: 0.1.0
   geodata:
   - apiVersion: v2
     appVersion: 1.0.0
@@ -21,4 +32,4 @@ entries:
     urls:
     - https://dmadunic.github.io/charts/geodata-0.0.2.tgz
     version: 0.0.2
-generated: "2022-04-25T20:49:43.657124551Z"
+generated: "2022-05-30T10:14:50.301712945Z"
