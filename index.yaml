@@ -35,6 +35,16 @@ entries:
   geodata:
   - apiVersion: v2
     appVersion: 1.1.0
+    created: "2022-08-29T13:55:04.884480447Z"
+    description: Geodata app Helm chart for Kubernetes
+    digest: 17638f803ef44c1bbaedd5c5a19f47680eb24838edc740346e97eac0f50ae422
+    name: geodata
+    type: application
+    urls:
+    - https://dmadunic.github.io/charts/geodata-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.1.0
     created: "2022-08-29T13:49:02.184529777Z"
     description: Geodata app Helm chart for Kubernetes
     digest: a93718c7fe465577ad8c7150fd1ad32f011454770dae49e02582158429094bab
@@ -83,4 +93,4 @@ entries:
     urls:
     - https://dmadunic.github.io/charts/geodata-0.0.2.tgz
     version: 0.0.2
-generated: "2022-08-29T13:49:02.183313975Z"
+generated: "2022-08-29T13:55:04.883080738Z"
